@@ -1,16 +1,17 @@
-### Hi there 👋
+### ¡Hola! 👋  
+### Mi Nombre Es Rukaya Y Disfruto Creando Cosas Que Viven En Internet
 
-<!--
-**rukamasme3011/rukamasme3011** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Un poquito sobre mí:
+Soy Una Desarrolladora Web Impulsada Por La Curiosidad. 
+Soy una persona proactiva que disfruta afrontando nuevos retos en el día a día. 
+Soy más feliz cuando aprendo, pienso, creo y exploro cómo mejorar las cosas. 
+Probablemente por eso la programación y yo nos llevamos tan bien.
 
-Here are some ideas to get you started:
+### Mis redes sociales:
+linkedin.com/in/rukaya-masmoudi-messaoud 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tecnologías que estoy aprendiendo:
+Angular, React, Vue.js, Jquery, C#, ASP.net
+
+### Tecnologías que sé:
+HTML, CSS, JavaScript, Java, Php
